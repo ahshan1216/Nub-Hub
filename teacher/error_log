@@ -1,0 +1,207 @@
+[29-Nov-2024 12:46:48 UTC] PHP Notice:  Undefined variable: result in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 9
+[29-Nov-2024 12:46:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 9
+[29-Nov-2024 12:46:48 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 16
+[29-Nov-2024 12:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 16
+[29-Nov-2024 12:47:28 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 12:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 12:48:18 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 13
+[29-Nov-2024 12:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 13
+[29-Nov-2024 12:48:20 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 13
+[29-Nov-2024 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 13
+[29-Nov-2024 12:48:47 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 12:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:38:28 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:53:04 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:55:17 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 13:55:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/get_session.php on line 21
+[29-Nov-2024 14:10:18 UTC] PHP Notice:  Undefined index: project_open in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 8
+[29-Nov-2024 15:46:53 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:47:01 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:47:07 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:47:13 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:47:19 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:48:24 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:56:09 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 15:56:23 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:00:57 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:01:14 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:01:24 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:02:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:02:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:03:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 16:03:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/update_session.php on line 4
+[29-Nov-2024 20:14:48 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 349
+[29-Nov-2024 20:14:48 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 350
+[29-Nov-2024 20:14:48 UTC] PHP Notice:  Undefined variable: selected_semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 355
+[29-Nov-2024 20:15:49 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[29-Nov-2024 20:15:53 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 05:30:58 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 05:31:32 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 05:31:32 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 05:37:28 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 05:37:28 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 21:07:01 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 21:07:01 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 21:11:12 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 21:11:12 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 354
+[30-Nov-2024 21:23:00 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:23:00 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:23:08 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:23:08 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:23:44 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:23:44 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:24:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:24:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 357
+[30-Nov-2024 21:25:14 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 21:25:14 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 21:25:17 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 19
+[30-Nov-2024 22:01:12 UTC] PHP Notice:  Undefined index: email in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 20
+[30-Nov-2024 22:07:38 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 22:07:38 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 22:07:50 UTC] PHP Notice:  Undefined variable: connection in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 22
+[30-Nov-2024 22:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 22
+[30-Nov-2024 22:44:23 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 22:44:23 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:02:15 UTC] PHP Notice:  Undefined index: studentName in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/add_student.php on line 7
+[30-Nov-2024 23:03:43 UTC] PHP Notice:  Undefined index: studentName in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/add_student.php on line 7
+[30-Nov-2024 23:08:52 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:12 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:12 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:12 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:12 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:12 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:09:13 UTC] PHP Notice:  Undefined variable: leader_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/student_details.php on line 21
+[30-Nov-2024 23:30:10 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:30:10 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:30:31 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:30:31 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:30:56 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:30:56 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:31:05 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:31:05 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:31:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:31:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:32:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:32:11 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:32:25 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:32:25 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:32:40 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:32:40 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:32:56 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 352
+[30-Nov-2024 23:32:56 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 352
+[30-Nov-2024 23:33:48 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:33:48 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:33:51 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:33:51 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:37:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 381
+[30-Nov-2024 23:37:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 444
+[30-Nov-2024 23:39:26 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 381
+[30-Nov-2024 23:39:26 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 450
+[30-Nov-2024 23:39:26 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 450
+[30-Nov-2024 23:41:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 381
+[30-Nov-2024 23:41:51 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 450
+[30-Nov-2024 23:41:51 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 450
+[30-Nov-2024 23:42:10 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 386
+[30-Nov-2024 23:42:10 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 386
+[30-Nov-2024 23:42:10 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 386
+[30-Nov-2024 23:42:10 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 386
+[30-Nov-2024 23:42:34 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:42:34 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:42:34 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:42:34 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:43:52 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:43:52 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:43:52 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:43:52 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:07 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:07 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:07 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:07 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:14 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:14 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:14 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:14 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:15 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:15 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:15 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:15 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 388
+[30-Nov-2024 23:44:39 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:39 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:39 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:39 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:48 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:48 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:48 UTC] PHP Notice:  Undefined index: short_name in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:44:48 UTC] PHP Notice:  Undefined index: notice in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 389
+[30-Nov-2024 23:46:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 356
+[30-Nov-2024 23:46:10 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:46:10 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 360
+[30-Nov-2024 23:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 26
+[30-Nov-2024 23:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 26
+[30-Nov-2024 23:48:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 37
+[30-Nov-2024 23:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 30
+[30-Nov-2024 23:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 45
+[30-Nov-2024 23:54:12 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420
+[30-Nov-2024 23:54:12 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420
+[30-Nov-2024 23:54:28 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420
+[30-Nov-2024 23:54:28 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420
+[01-Dec-2024 00:08:45 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420
+[01-Dec-2024 00:08:45 UTC] PHP Notice:  Undefined variable: selected_session in /home/grohonnc/public_html/subdomainmy/nubps.xyz/teacher/index.php on line 420

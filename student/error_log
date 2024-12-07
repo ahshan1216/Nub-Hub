@@ -1,0 +1,179 @@
+[28-Nov-2024 17:14:28 UTC] Duplicates: []
+[28-Nov-2024 17:14:28 UTC] Non-existent: []
+[28-Nov-2024 17:14:28 UTC] Conflict: ["123"]
+[29-Nov-2024 05:35:34 UTC] PHP Warning:  include(../../database.php): failed to open stream: No such file or directory in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php on line 3
+[29-Nov-2024 05:35:34 UTC] PHP Warning:  include(../../database.php): failed to open stream: No such file or directory in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php on line 3
+[29-Nov-2024 05:35:34 UTC] PHP Warning:  include(): Failed opening '../../database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php on line 3
+[29-Nov-2024 05:35:34 UTC] PHP Notice:  Undefined variable: connection in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php on line 13
+[29-Nov-2024 05:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/delete_account.php on line 13
+[29-Nov-2024 17:13:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:13:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 10
+[29-Nov-2024 17:14:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[29-Nov-2024 17:15:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/fetch_total_team.php on line 6
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:22 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:22 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:22 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:22 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:23 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:23 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:23 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:28 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:29:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:54 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:30:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:31 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:31 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:31 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:31 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:31 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:31:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:32:32 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 16
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:55 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:34:58 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:17 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:19 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:35:21 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 29
+[30-Nov-2024 20:36:40 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 20:52:49 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 20:53:04 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 20:59:33 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:00:03 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:08:01 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:08:10 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:11:47 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:47:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:48:44 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:49:02 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:49:02 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:51:00 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:51:00 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:52:57 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:53:16 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:53:16 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:54:12 UTC] PHP Notice:  Undefined index: semester in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 30
+[30-Nov-2024 21:54:12 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:54:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:54:47 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141
+[30-Nov-2024 21:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/index.php on line 141

@@ -1,0 +1,519 @@
+[23-Nov-2024 15:08:24 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:08:24 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 216
+[23-Nov-2024 15:08:24 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:08:27 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:08:31 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:08:33 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:09:23 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:09:23 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:09:24 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:09:55 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:09:55 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:09:55 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:09:56 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:09:56 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:09:56 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:10:18 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:10:18 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:10:18 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:20:09 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:20:09 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:20:09 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:20:33 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:20:33 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:37:00 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:37:00 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:37:00 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:03 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:04 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:10 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:10 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:11 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:13 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:37:13 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:37:13 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:37:15 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:00 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:39:00 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:39:00 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:04 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:06 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:07 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:15 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:16 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:39:18 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:39:47 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:39:47 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:39:47 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:40:01 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:40:43 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:40:43 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:40:45 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:41:28 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:41:29 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:41:35 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:41:35 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:41:35 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:41:37 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:43:10 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:43:10 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:43:11 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:43:12 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:43:17 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:43:18 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:45:26 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:45:26 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 15:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 15:45:56 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:45:56 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:45:56 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:45:58 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:45:58 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:45:59 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:45:59 UTC] PHP Notice:  Undefined index: user_id in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 16
+[23-Nov-2024 15:45:59 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:45:59 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:46:25 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 15:46:25 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:46:25 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 15:46:28 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 15:46:38 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 15:46:38 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 15:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 15:46:43 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 15:46:43 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 15:46:43 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:03:43 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:03:43 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:03:43 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:03:48 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:05:07 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:05:07 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:05:07 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:05:16 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:06:33 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:06:33 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:06:33 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:08:10 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:08:10 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:08:10 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:09:53 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:09:53 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:09:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:09:58 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:10:22 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:10:23 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:12:49 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:12:49 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:12:49 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:12:51 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:12:58 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:12:59 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:13:06 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:18:08 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:18:08 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:18:08 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:18:11 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:18:23 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:18:23 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:18:23 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:18:24 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:19:06 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:19:06 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:19:06 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:19:08 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:19:50 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:19:50 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:19:51 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:19:56 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:20:32 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:20:32 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:20:32 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:20:34 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:24:48 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:24:48 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:24:48 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:24:50 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:26:00 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:26:00 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:26:00 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:26:02 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:34:50 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:34:50 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:34:51 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:52 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:52 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:54 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:34:55 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:35:01 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:43:17 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:43:17 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:43:25 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:43:25 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:43:26 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:43:26 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:43:27 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:29 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:31 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:31 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:31 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:31 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:32 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:32 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:43:33 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:44:12 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:44:12 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:44:36 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:44:36 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:44:36 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:44:38 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:44:38 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:44:40 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:44:45 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:44:45 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:44:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:44:48 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:44:48 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:44:48 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:44:52 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:44:52 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:44:52 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:44:53 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:45:03 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:45:03 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:10 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:45:10 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:45:10 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:45:12 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:45:12 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:12 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:45:12 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:45:13 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:45:13 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:45:14 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:47:28 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:47:28 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:47:29 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:47:32 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:47:38 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:47:38 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:47:40 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:47:40 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:47:40 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:48:36 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:48:36 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:48:36 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:48:48 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:48:48 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:48:49 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:48:54 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:48:54 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:51:50 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:51:50 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:51:53 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:53:14 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:53:14 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:53:16 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:54:29 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:54:29 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:54:34 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:54:40 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:54:40 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:54:41 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:54:41 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:54:45 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:54:45 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:54:47 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:54:53 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:54:54 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 16:54:54 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:55:00 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:55:00 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:55:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 16:55:02 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:55:02 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:55:40 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:55:40 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:55:42 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:57:19 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:57:19 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:57:20 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:57:51 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:57:51 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:57:54 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:59:07 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:59:07 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 16:59:08 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 16:59:24 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 16:59:24 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:00:02 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:00:02 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:00:05 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:00:36 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:00:36 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:00:38 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:00:49 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 17:00:50 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 17:00:51 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:00:57 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:00:57 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:02:47 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:02:47 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:02:50 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:02:57 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:02:57 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:02:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:03:58 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:03:58 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:04:00 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:04:07 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:04:07 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:04:57 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:04:57 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:05:06 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:05:06 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:05:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:06:40 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:06:40 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:08:44 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:08:44 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:08:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:12:01 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:12:01 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:12:15 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:12:15 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:12:18 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:12:20 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 17:12:21 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[23-Nov-2024 17:12:21 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[23-Nov-2024 17:12:28 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:12:28 UTC] PHP Notice:  Undefined variable: stmt in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 47
+[23-Nov-2024 17:22:43 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:22:43 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:36:55 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:36:55 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:41:36 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:41:36 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 17:42:38 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 17:42:38 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[23-Nov-2024 18:07:43 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[23-Nov-2024 18:07:43 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 15:06:44 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 15:06:44 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 15:06:50 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:06:55 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:06:55 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:06:56 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:06:57 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:07:02 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:07:02 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 15:07:05 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 15:07:05 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 15:07:08 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:27:03 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 16:27:03 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 16:44:46 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 16:44:46 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 16:44:49 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:44:51 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:45:09 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:45:09 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:45:09 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:45:11 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[25-Nov-2024 16:45:15 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 16:45:15 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 16:47:13 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 16:47:13 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 16:47:16 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:17 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:17 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:25 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:26 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:26 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:26 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:26 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 16:47:27 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[25-Nov-2024 16:47:31 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 16:47:31 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 17:27:21 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 17:27:21 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 17:27:28 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div>
+[25-Nov-2024 17:27:34 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 17:27:34 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 17:55:59 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 17:55:59 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 17:56:03 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div><div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 17:56:18 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 17:56:18 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 17:56:19 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div><div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:03:55 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:03:55 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:03:57 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:05:02 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:05:02 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:05:04 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:05:17 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:05:17 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:05:59 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:06:31 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:06:31 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:06:33 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:07:34 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:07:34 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:07:35 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:07:55 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:07:55 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:07:56 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:10:17 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:10:17 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:10:19 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:10:23 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:10:32 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:10:33 UTC] Faculty Options: <div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:10:44 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:10:44 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:12:58 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:12:58 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:13:01 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div><div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:13:06 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:13:06 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:13:20 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:13:20 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:13:22 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:13:27 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:13:27 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:13:28 UTC] Faculty Options: <div class='faculty-box' data-name='MTR'>MTR</div><div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:13:32 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:13:32 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:15:23 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:15:23 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:15:26 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:27 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:30 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:30 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:31 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:33 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:37 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:15:40 UTC] Faculty Options: <div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:15:44 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:15:44 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:27:10 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:27:10 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:27:12 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:27:13 UTC] Faculty Options: <div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:27:20 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:27:20 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:42:56 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:42:56 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 18:42:57 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:42:59 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[25-Nov-2024 18:43:02 UTC] Faculty Options: <div class='faculty-box' data-name='KUDD'>KUDD</div>
+[25-Nov-2024 18:43:09 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 18:43:09 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 19:30:52 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 19:30:52 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[25-Nov-2024 20:07:14 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[25-Nov-2024 20:07:14 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[27-Nov-2024 20:18:09 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[27-Nov-2024 20:18:09 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[27-Nov-2024 20:18:28 UTC] PHP Notice:  Undefined index: session_value in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 17
+[27-Nov-2024 20:18:28 UTC] PHP Notice:  Undefined variable: facultyOptions in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/index.php on line 197
+[27-Nov-2024 20:18:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:32 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:33 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:33 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:37 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:37 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:38 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:38 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:38 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:18:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:18:49 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>
+[27-Nov-2024 20:19:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/student/dashboard/new_add/fetch_faculty.php on line 16
+[27-Nov-2024 20:19:02 UTC] Faculty Options: <div class='faculty-box'>No active faculty available</div>

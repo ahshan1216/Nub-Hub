@@ -1,0 +1,27 @@
+[30-Nov-2024 20:22:30 UTC] 1630
+[30-Nov-2024 20:23:23 UTC] 1630fall249
+[30-Nov-2024 20:29:21 UTC] 1630fall24
+[30-Nov-2024 20:29:21 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/grohonnc/public_html/subdomainmy/nubps.xyz/login/index.php on line 99
+[30-Nov-2024 20:29:21 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/nubps.xyz/login/index.php on line 103
+[30-Nov-2024 20:30:32 UTC] 1630fall24
+[30-Nov-2024 20:36:35 UTC] 1630fall24
+[30-Nov-2024 20:49:34 UTC] 41220100050fall24
+[30-Nov-2024 20:53:04 UTC] 41220100050fall24
+[30-Nov-2024 20:59:33 UTC] 1630fall24
+[30-Nov-2024 21:00:00 UTC] 1630fall24
+[30-Nov-2024 21:08:00 UTC] 1630fall24
+[30-Nov-2024 21:08:10 UTC] 1630fall24
+[30-Nov-2024 21:11:47 UTC] 41220100053fall24
+[30-Nov-2024 21:47:12 UTC] 41220100053fall24
+[30-Nov-2024 21:48:44 UTC] 41220100053fall24
+[30-Nov-2024 21:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/grohonnc/public_html/subdomainmy/nubps.xyz/login/index.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/nubps.xyz/login/index.php on line 81
+[30-Nov-2024 21:52:57 UTC] 41220100053fall24
+[30-Nov-2024 21:54:31 UTC] 41220100053fall24
+[30-Nov-2024 22:12:18 UTC] 123fall24
+[30-Nov-2024 22:13:18 UTC] 4432fall24
+[30-Nov-2024 22:13:37 UTC] 41220100053fall24
+[30-Nov-2024 22:14:33 UTC] 4432fall24
+[01-Dec-2024 00:04:56 UTC] 41220100053fall24
